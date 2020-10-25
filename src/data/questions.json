@@ -1,0 +1,44 @@
+[
+    {
+       "questionText":"What is the capital of Belgium?",
+       "answerOptions":[
+          {
+             "answerText":"Berlin",
+             "isCorrect":false
+          },
+          {
+             "answerText":"Amsterdam",
+             "isCorrect":false
+          },
+          {
+             "answerText":"Paris",
+             "isCorrect":false
+          },
+          {
+             "answerText":"Brussels",
+             "isCorrect":true
+          }
+       ]
+    },
+    {
+       "questionText":"The iPhone was created by which company?",
+       "answerOptions":[
+          {
+             "answerText":"Apple",
+             "isCorrect":true
+          },
+          {
+             "answerText":"Intel",
+             "isCorrect":false
+          },
+          {
+             "answerText":"Amazon",
+             "isCorrect":false
+          },
+          {
+             "answerText":"Microsoft",
+             "isCorrect":false
+          }
+       ]
+    }
+ ]
